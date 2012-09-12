@@ -19,7 +19,7 @@ $if title: : $title\
 		</header>
 
 		<section class="row">$:page</section>
-
+    <div class="fb-like" data-href="http://bbvisa2ofx.yepdev.com" data-send="true" data-width="200" data-show-faces="false" data-font="verdana"></div>
     <footer>
       Desenvolvido por <a href="http://yepdev.com"><img src="http://yepdev.com/images/yepdev_logo_escuro_small.png" /></a> 
       | Contribua: <a href="https://github.com/yepdev/bbvisa2ofx" ><img height="32" width="32" src="http://yepdev.com/images/icons/github.png" /></a>
@@ -31,15 +31,25 @@ $if title: : $title\
   <script type="text/javascript">
 
       var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-34728085-2']);
-          _gaq.push(['_trackPageview']);
+      _gaq.push(['_setAccount', 'UA-34728085-2']);
+      _gaq.push(['_trackPageview']);
 
-            (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                          })();
+      (function() {
+         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+       })();
 
-                        </script>
+   </script>
+   <div id="fb-root"></div>
+   <script>
+     (function(d, s, id) {
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return;
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+   </script>
 </body>
 </html>
