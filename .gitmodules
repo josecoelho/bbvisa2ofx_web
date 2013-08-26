@@ -1,0 +1,3 @@
+[submodule "bbvisa2ofx_repo"]
+	path = bbvisa2ofx_repo
+	url = https://github.com/josecoelho/bbvisa2ofx.git
