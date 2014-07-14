@@ -2,7 +2,7 @@ BBVisa2OFX Web
 ==============
 
 This project is a web interface of
-https://github.com/yepdev/bbvisa2ofx
+https://github.com/josecoelho/bbvisa2ofx
 
 
 Dependencies
