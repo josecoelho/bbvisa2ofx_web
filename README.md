@@ -8,8 +8,8 @@ https://github.com/yepdev/bbvisa2ofx
 Dependencies
 ------------
 
-web.py -> http://webpy.org/
-bbvisa2ofx -> https://github.com/yepdev/bbvisa2ofx
+* web.py -> http://webpy.org/
+* bbvisa2ofx -> https://github.com/josecoelho/bbvisa2ofx
 
 
 Run local
