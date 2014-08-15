@@ -4,7 +4,6 @@ sys.path.append(os.getcwd())
 import web, index
 from index import index
 
-
 urls = (
     '/', 'index'
 )

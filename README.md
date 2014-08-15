@@ -15,4 +15,4 @@ Dependencies
 Run local
 ------------
 
-$ python main_local.py
+$ python service.py

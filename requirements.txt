@@ -1,0 +1,3 @@
+bbvisa2ofx==0.18
+web.py==0.37
+wsgiref==0.1.2
