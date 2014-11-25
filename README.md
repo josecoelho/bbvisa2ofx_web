@@ -1,6 +1,8 @@
 BBVisa2OFX Web
 ==============
 
+[![Build Status](https://travis-ci.org/josecoelho/bbvisa2ofx_web.svg?branch=master)](https://travis-ci.org/josecoelho/bbvisa2ofx_web)
+
 This project is a web interface of
 https://github.com/josecoelho/bbvisa2ofx
 
